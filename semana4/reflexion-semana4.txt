@@ -1,0 +1,9 @@
+Creo que es muy importante que las comunidades puedan crear sus propias herramientas
+tecnológicas con tecnologías abiertas como Node.js. En primer lugar, esto les permite
+ser independientes de las grandes empresas de software y no tener que pagar por costosas
+licencias. También les da la libertad de adaptar la tecnología a lo que realmente
+necesitan en su día a día. Node.js es una excelente opción porque es gratuito y utiliza
+JavaScript, que es uno de los lenguajes de programación más fáciles de aprender para
+quienes están empezando. Esto ayuda a que más personas puedan participar en el desarrollo
+del proyecto. Además, al construir sus propias plataformas, las comunidades pueden proteger
+mejor sus datos y asegurar que la información se quede en manos seguras y locales.
